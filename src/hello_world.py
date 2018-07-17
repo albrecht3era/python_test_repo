@@ -17,4 +17,4 @@ elif choice == 7:
 elif choice == 8:
     print("This nine now... deal with it")
 else:
-    print("Y'all can't count???")
+    print("Y'all can't count??? That's sad")
